@@ -38,13 +38,7 @@ The game allows the player to explore a city environment, interact with a car, a
 - **Unity Engine**
 - **C# Programming Language**
 
-## 📸 Screenshots
 
-### City Exploration & Driving
-![City Gameplay](screenshot1.png)
-
-### Parking Challenge Mode
-![Parking Mode](screenshot2.png)
 
 ## 🚀 Future Improvements
 

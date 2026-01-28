@@ -1,3 +1,4 @@
+# ========== UNITY GENERATED FOLDERS ==========
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -6,6 +7,12 @@
 [Ll]ogs/
 UserSettings/
 
+# ========== VISUAL STUDIO / RIDER ==========
+.vs/
+.idea/
+.vscode/
+
+# ========== GENERATED PROJECT FILES ==========
 *.csproj
 *.unityproj
 *.sln
@@ -17,10 +24,14 @@ UserSettings/
 *.booproj
 *.svd
 *.pdb
+*.mdb
+*.opendb
+*.VC.db
 
-.vscode/
-.vs/
-.idea/
-
+# ========== OS FILES ==========
 .DS_Store
 Thumbs.db
+
+# ========== UNITY CACHE ==========
+MemoryCaptures/
+Recordings/
